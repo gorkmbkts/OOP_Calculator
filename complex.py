@@ -7,6 +7,8 @@ class complexcalc:
         result=eval(self.strinput)
 
         return result
-
+        
+        dummy = "this string added to test gitkraken"
+    
 
 
