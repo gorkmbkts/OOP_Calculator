@@ -8,5 +8,5 @@ class adding:
     def adder(self):
 
         result =(self.var1+self.var2)
-
+	dummy=5
         return result
